@@ -12,7 +12,7 @@
 #
 class vim {
 
-  package { "pyflakes":
+  package { "vim":
     ensure => present,
   }
 
