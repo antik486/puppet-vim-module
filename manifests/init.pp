@@ -16,6 +16,4 @@ class vim {
     ensure => installed,
   }
 
-
-
 }
