@@ -1,0 +1,21 @@
+{
+  "name": "antik486-vim",
+  "author": "antik486",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    ".project": "2f5d322cf0ba8b47edd6581beecec0eb",
+    "Modulefile": "8f43b606afff023b055c381ca696e852",
+    "README.markdown": "fa72700fdb5e6a79bae60c0270b143ac",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/init.pp": "715ef425a075b6f347d7c1f3de79bddf",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "b651e1a93505b3f5baf094fd19fdc663"
+  },
+  "dependencies": []
+}
