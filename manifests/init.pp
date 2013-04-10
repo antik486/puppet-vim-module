@@ -13,7 +13,7 @@
 class vim {
 
   package { "vim":
-    ensure => installed,
+    ensure => present,
   }
 
 
